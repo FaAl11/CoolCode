@@ -1,9 +1,15 @@
 
 
-testing functiion test
+testing function test
 
-does it workd with smoke test
+does it work with smoke test
 
 ...
 ..
+.
+
+added to Jira
+
+.
+.
 .
